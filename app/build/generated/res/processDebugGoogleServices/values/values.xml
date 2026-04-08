@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">660559572643</string>
+    <string name="google_api_key" translatable="false">AIzaSyDqII-y2XFufHWBILZFVdEhDRW0-USbI3g</string>
+    <string name="google_app_id" translatable="false">1:660559572643:android:252126aa8bea4927f19916</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDqII-y2XFufHWBILZFVdEhDRW0-USbI3g</string>
+    <string name="google_storage_bucket" translatable="false">attendease-a1b2f.firebasestorage.app</string>
+    <string name="project_id" translatable="false">attendease-a1b2f</string>
+</resources>

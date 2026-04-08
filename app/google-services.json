@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "660559572643",
+    "project_id": "attendease-a1b2f",
+    "storage_bucket": "attendease-a1b2f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660559572643:android:252126aa8bea4927f19916",
+        "android_client_info": {
+          "package_name": "com.attendease.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqII-y2XFufHWBILZFVdEhDRW0-USbI3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660559572643:android:0c8d7a86f4e03ec1f19916",
+        "android_client_info": {
+          "package_name": "com.attendease.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqII-y2XFufHWBILZFVdEhDRW0-USbI3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

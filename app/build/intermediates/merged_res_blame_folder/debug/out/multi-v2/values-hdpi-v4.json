@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.attendease.app-mergeDebugResources-66:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\BRJ.Tech\\.gradle\\caches\\transforms-3\\bde4b88f54743b0ed8ab6a8c50de1d04\\transformed\\appcompat-1.6.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
